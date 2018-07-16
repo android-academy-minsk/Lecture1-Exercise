@@ -1,1 +1,0 @@
-# Lecture1-Exercise
