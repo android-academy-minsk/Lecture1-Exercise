@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">Exercise1</string>
+    <string name="activity">Activity</string>
+    <string name="email">Email</string>
+    <string name="message_hint">Type your message here…</string>
+    <string name="email_to">my_email@gmail.com</string>
+    <string name="email_subject">The message I wrote on my app</string>
+    <string name="choose_email_client">Choose email client</string>
+    <string name="email_error">Cant find email client</string>
+</resources>

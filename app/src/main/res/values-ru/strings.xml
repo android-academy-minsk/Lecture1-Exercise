@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Упражнение1</string>
+    <string name="activity">Активити</string>
+    <string name="email">Электронная почта</string>
+    <string name="message_hint">Введите свое сообщение…</string>
+    <string name="email_subject">Это сообщения и создал в приложении</string>
+    <string name="choose_email_client">Выберите приложение для отправки</string>
+    <string name="email_error">Не могу найти приложение для отправки</string>
+</resources>
